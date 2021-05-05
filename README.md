@@ -15,7 +15,9 @@ We have a decent player base, Though small in numbers we are strong together. We
 ------------------------------------------------------------------------------------------------------
 **𝐎𝐮𝐫 𝐋𝐨𝐫𝐞**
 ------------------------------------------------------------------------------------------------------
+
 _Our lore is small and humble. When we first made the lore, it heavily ignored and died down, but this time we have a new idea, A idea that will depict the future of Voidance and how it is going to continue, Are you curious? Well, if you continue reading my friend. The lore is about groups, they can be considered much like kingdoms, legions, and organizations, etc. They will have structures, towns, or places where they live and reign. That is just the beginning there’s much more to this tale. Groups can have conflicts with each other which can be classified or understood as ‘wars. During these said wars the groups can attack each other, steal items, use dragons and other means to take down their enemy, In the end, there will be only one winner and one loser. You can make allies or join forces share wealth and much more. If you aren’t interested in fights, you can join a peace group or live separately minding your own business, etc._
+
 ------------------------------------------------------------------------------------------------------
 
 
