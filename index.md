@@ -1,13 +1,9 @@
 # Voidance, The Minecraft Server
 
-[Discord Server](https://discord.gg/jnAYAPQshA/){: .btn .btn-purple }
 
- <div class="collapsible-body">
-      <button id="add-discard" class="btn deep-purple lighten-2 m-10">Add to Discard</button>
-      <button id="add-to-top" class="btn deep-purple lighten-2 m-10">Add to Top of Deck</button>
-      <p id="add-top"> This is add top paragraph </p>
-      <div id="hq-cards"></div>
- </div>
+
+**Join Our Discord Server:** https://discord.gg/jnAYAPQshA/
+
 Welcome to Voidance! This is the offical page for voidances git Repo and Website!
 We are a fun Survival Multiplayer community which also happens to be modded!
 
