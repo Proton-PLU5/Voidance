@@ -36,11 +36,12 @@ If you liked my small description of voidance, Why don’t you join and explore 
 -----------------------------------------
 
 **Instructions to Download Mods**
-_Press the button "View On Github". It will redirect you to another url.
 
-- After clicking on the button, look for the latest release. It should have a green tag labeled "Latest Release".
+- _Press the button "View On Github". It will redirect you to another url._
 
-- After, Find the assets. They are usually below the releases description. Then click on "Source code (zip)" it will begin downloading._
+- _After clicking on the button, look for the latest release. It should have a green tag labeled "Latest Release"._
+
+- _After, Find the assets. They are usually below the releases description. Then click on "Source code (zip)" it will begin downloading._
 
 
 **How to set up mods & use them on the server.**
