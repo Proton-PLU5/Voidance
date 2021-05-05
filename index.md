@@ -1,7 +1,6 @@
 # Voidance, The Minecraft Server
 
-![]
-(https://static.planetminecraft.com/files/banner/859694_1.png)
+![](https://static.planetminecraft.com/files/banner/859694_1.png)
 
 [**Join Our Discord Server**](https://discord.gg/jnAYAPQshA/)
 
