@@ -6,7 +6,7 @@ We are a fun Survival Multiplayer community which also happens to be modded!
 
 **𝐀𝐛𝐨𝐮𝐭 𝐔𝐬**
 ------------------------------------------------------------------------------------------------------
-_Voidance is a modded SMP server, actually, it's more than that, it has a bit of role-play elements in it and lore as well, call it an SMR why not. In voidance, you can make friends, create amazing structures, tame and hunt dragons, etc. We have more biomes to explore, new structures that spawn, and it’s a hard survival experience.
+Voidance is a modded SMP server, actually, it's more than that, it has a bit of role-play elements in it and lore as well, call it an SMR why not. In voidance, you can make friends, create amazing structures, tame and hunt dragons, etc. We have more biomes to explore, new structures that spawn, and it’s a hard survival experience.
 
 Once we were all about creativity, then we later realized through many things that have gone by, Creativity is just a necessity. During these tough times, people wanted to socialize take part in events, wake up the next morning to see what has happened, and basically a game where everything is fun.
 
