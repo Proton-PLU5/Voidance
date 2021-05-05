@@ -7,6 +7,10 @@
 Welcome to Voidance! This is the offical page for voidances git Repo and Website!
 We are a fun Survival Multiplayer community which also happens to be modded!
 
+**Donate To Us Via PayPal!**
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/typicalzedf)
+
+
 **𝐀𝐛𝐨𝐮𝐭 𝐔𝐬**
 ------------------------------------------------------------------------------------------------------
 Voidance is a modded SMP server, actually, it's more than that, it has a bit of role-play elements in it and lore as well, call it an SMR why not. In voidance, you can make friends, create amazing structures, tame and hunt dragons, etc. We have more biomes to explore, new structures that spawn, and it’s a hard survival experience.
@@ -54,4 +58,3 @@ If you liked my small description of voidance, Why don’t you join and explore 
 
 - _Afterwards open up Minecraft run and launch forge 1.16.5 and Done! Enjoy!_
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://BetaPaypal.notawebsitevoidancetest) Beta.
