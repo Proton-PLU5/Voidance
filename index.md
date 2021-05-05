@@ -1,6 +1,6 @@
 # Voidance, The Minecraft Server
 
-[Discord Server](https://discord.gg/jnAYAPQshA){: .btn}
+[Discord Server](https://discord.gg/jnAYAPQshA/){: .btn .btn-purple }
 
 Welcome to Voidance! This is the offical page for voidances git Repo and Website!
 We are a fun Survival Multiplayer community which also happens to be modded!
