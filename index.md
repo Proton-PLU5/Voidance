@@ -46,11 +46,11 @@ If you liked my small description of voidance, Why don’t you join and explore 
 
 **How to set up mods & use them on the server.**
 
-- _Go to where you downloaded it and press right click on the downloaded ".zip" file. Press extract and it will begin extracting, Afterwards a new folder will be found called exactly the same as the zip file but with it will be a normal folder.
+- _Go to where you downloaded it and press right click on the downloaded ".zip" file. Press extract and it will begin extracting, Afterwards a new folder will be found called exactly the same as the zip file but with it will be a normal folder._
 
-- _Go into the new folder and into mods, If and once you have forge installed! Copy everything there and paste it into your mods folder. (This can be done by right clicking and pressing copy, then paste.)
+- _Go into the new folder and into mods, If and once you have forge installed! Copy everything there and paste it into your mods folder.__ (This can be done by right clicking and pressing copy, then paste.)_
 
-- _If there isn't a mods folder create one, The mods folder can be found by doing *Windows Key + R *then typing %appdata%. It will show the .minecraft folder go into it and create the mods folder there, Then into the mods folder paste everything you copied. (If and when you need to create a mod folder, right click inside the .minecraft folder and click New Folder. After, name it mods.)_
+- _If there isn't a mods folder create one, The mods folder can be found by doing *Windows Key + R *then typing %appdata%. It will show the .minecraft folder go into it and create the mods folder there, Then into the mods folder paste everything you copied.__ (If and when you need to create a mod folder, right click inside the .minecraft folder and click New Folder. After, name it mods.)_
 
 - _Afterwards open up Minecraft run and launch forge 1.16.5 and Done! Enjoy!_
 
