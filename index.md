@@ -16,7 +16,9 @@ Once we were all about creativity, then we later realized through many things th
 We have a decent player base, Though small in numbers we are strong together. We want to create a server which everyone feels a part off, Thats our non cannon subtitle!
 
 ------------------------------------------------------------------------------------------------------
+
 ![](https://static.planetminecraft.com/files/image/minecraft/server/2021/012/14362215-welcomepage_l.webp)
+
 **𝐎𝐮𝐫 𝐋𝐨𝐫𝐞**
 
 
