@@ -1,8 +1,16 @@
 # Voidance, The Minecraft Server
 
+![](https://media.discordapp.net/attachments/820011435123933224/839387913132572672/github.png)
 
-Welcome to Voidance! This is the official page for voidances git Repo and Website!
+[**Join Our Discord Server**](https://discord.gg/jnAYAPQshA/)
+
+Welcome to Voidance! This is the offical page for voidances git Repo and Website!
 We are a fun Survival Multiplayer community which also happens to be modded!
+
+**Donate To Us Via PayPal!**
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/typicalzedf)
+
 
 **𝐀𝐛𝐨𝐮𝐭 𝐔𝐬**
 ------------------------------------------------------------------------------------------------------
