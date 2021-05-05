@@ -54,4 +54,4 @@ If you liked my small description of voidance, Why don’t you join and explore 
 
 - _Afterwards open up Minecraft run and launch forge 1.16.5 and Done! Enjoy!_
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)]() Beta.
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://BetaPaypal.notawebsitevoidancetest) Beta.
