@@ -10,7 +10,7 @@ _Voidance is a modded SMP server, actually, it's more than that, it has a bit of
 
 Once we were all about creativity, then we later realized through many things that have gone by, Creativity is just a necessity. During these tough times, people wanted to socialize take part in events, wake up the next morning to see what has happened, and basically a game where everything is fun.
 
-We have a decent player base though small, we plan to develop it to newer heights. Many people have left us, but we still thrive because we have one goal to create the best server that a person could play and socialize on._
+We have a decent player base, Though small in numbers we are strong together. We want to create a server which everyone feels a part off, Thats our non cannon subtitle!
 ------------------------------------------------------------------------------------------------------
 **𝐎𝐮𝐫 𝐋𝐨𝐫𝐞**
 ------------------------------------------------------------------------------------------------------
