@@ -26,3 +26,5 @@ We have a small team of moderators and admins who will help you out with any pro
 We have grief prevention, Not by shovels but by groups. The groups also have a claiming system so people can claim land for themselves. We also have block logging so we will find the culprit real fast.
 
 If you liked my small description of voidance, Why don’t you join and explore more into voidance’s culture and its lore?
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](YOUR_EMAIL_CODE)
