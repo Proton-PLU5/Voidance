@@ -17,7 +17,7 @@ We have a decent player base, Though small in numbers we are strong together. We
 
 ------------------------------------------------------------------------------------------------------
 
-![](https://static.planetminecraft.com/files/image/minecraft/server/2021/012/14362215-welcomepage_l.webp)
+![](https://media.discordapp.net/attachments/714577551061811331/839265730254995486/WelcomePage.png?width=1668&height=938)
 
 **𝐎𝐮𝐫 𝐋𝐨𝐫𝐞**
 
