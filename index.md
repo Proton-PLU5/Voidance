@@ -1,8 +1,9 @@
 # Voidance, The Minecraft Server
 
+![]
+(https://static.planetminecraft.com/files/banner/859694_1.png)
 
-
-**Join Our Discord Server:** https://discord.gg/jnAYAPQshA/
+[**Join Our Discord Server**](https://discord.gg/jnAYAPQshA/)
 
 Welcome to Voidance! This is the offical page for voidances git Repo and Website!
 We are a fun Survival Multiplayer community which also happens to be modded!
