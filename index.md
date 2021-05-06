@@ -4,6 +4,8 @@
 
 [**Join Our Discord Server**](https://discord.gg/jnAYAPQshA/)
 
+[![nitroboost](https://emoji.gg/assets/emoji/7693_nitroboost.png)](https://emoji.gg/emoji/7693_nitroboost)
+
 Welcome to Voidance! This is the offical page for voidances git Repo and Website!
 We are a fun Survival Multiplayer community which also happens to be modded!
 
