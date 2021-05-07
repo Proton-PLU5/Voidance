@@ -11,7 +11,8 @@ We are a fun Survival Multiplayer community which also happens to be modded!
 
 **Donate To Us Via PayPal!**
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/typicalzedf)
+[![Donate](https://discord.gg/jnAYAPQshA)
+[![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/Proton-PLU5/Voidance/releases)[![Github releases (by release)](https://img.shields.io/github/downloads/Naereen/StrapDown.js/v1.1/total.svg)](https://github.com/Proton-PLU5/Voidance/releases/)
 
 
 **𝐀𝐛𝐨𝐮𝐭 𝐔𝐬**
