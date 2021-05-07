@@ -11,7 +11,7 @@ We are a fun Survival Multiplayer community which also happens to be modded!
 **Donate To Us Via PayPal!**
 
 
-[![Donate](https://discord.gg/jnAYAPQshA)
+![Donate](https://discord.gg/jnAYAPQshA)
 
 
 **𝐀𝐛𝐨𝐮𝐭 𝐔𝐬**
