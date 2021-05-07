@@ -10,8 +10,7 @@ We are a fun Survival Multiplayer community which also happens to be modded!
 
 **Donate To Us Via PayPal!**
 
-
-![Donate](https://discord.gg/jnAYAPQshA)
+[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DTypicalZedF%26type%3Dpatrons%26suffix%3DPatreon&style=for-the-badge)](https://patreon.com/TypicalZedF)
 
 
 **𝐀𝐛𝐨𝐮𝐭 𝐔𝐬**
