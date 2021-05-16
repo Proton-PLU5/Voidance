@@ -4,6 +4,8 @@
 
 [**Join Our Discord Server**](https://discord.gg/NwFtXRFsPs)
 
+![Discord](https://img.shields.io/discord/699750447233368085?label=Discord&logoColor=blue&style=for-the-badge)
+
 
 Welcome to Voidance! This is the offical page for voidances git Repo and Website!
 We are a fun Survival Multiplayer community which also happens to be modded!
