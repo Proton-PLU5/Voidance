@@ -62,4 +62,3 @@ If you liked my small description of voidance, Why don’t you join and explore 
 
 - _Afterwards open up Minecraft run and launch forge 1.16.5 and Done! Enjoy!_
 
-||[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DTypicalZedF%26type%3Dpledges&style=for-the-badge)](https://patreon.com/TypicalZedF)||
