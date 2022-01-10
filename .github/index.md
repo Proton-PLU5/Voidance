@@ -2,7 +2,7 @@
 
 ![](https://media.discordapp.net/attachments/820011435123933224/839387913132572672/github.png)
 
-[**Join Our Discord Server**](https://discord.gg/jnAYAPQshA/)
+[![**Join Our Discord Server**](https://discord.gg/jnAYAPQshA/)](https://discord.gg/jnAYAPQshA/)
 
 
 Welcome to Voidance! This is the offical page for voidances git Repo and Website!
